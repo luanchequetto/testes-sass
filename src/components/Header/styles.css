@@ -1,0 +1,29 @@
+.header-content{
+    display: flex;
+    width: 100vw;
+    height: 4rem;
+    padding: 0.5rem;
+    background-color: #E8E6E6;
+}
+.logo{
+    width: 3rem;
+    height: 3rem;
+}
+.header-buttons{
+    display: flex;
+    position: relative;
+    margin-left: 0.5rem;
+}
+.btn{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 1rem;
+    padding: 0.5rem;
+    border: 1px solid blue;
+    border-radius: 0.5rem;
+}
+.btn:hover{
+    background-color: #BCB9B9;
+    transition: 0.5s;
+}

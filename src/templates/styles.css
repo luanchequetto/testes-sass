@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+html{
+    font-size: 62.5%;
+    height: 100vh;
+}
+.content{
+    font-size: 1.6rem;
+}
+.btn:hover{
+    cursor: pointer;
+}
